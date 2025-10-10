@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db5505de-c2c9-47f5-96f9-bc427341b91d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/axios.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/axios.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-SSYGV25P.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-SSYGV25P.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-SSYGV25P.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-SSYGV25P.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-WRYKAXUK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-WRYKAXUK.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-YFT6OQ5R.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-YFT6OQ5R.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/lucide-vue-next.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/lucide-vue-next.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/lucide-vue-next.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/lucide-vue-next.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/pinia.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/pinia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/pinia.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/pinia.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GuillermoPromac"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Tralaleritos-UPC/Fronentd.git",
+    "accountId": "5b199b1b-004c-499c-815f-64a9201a2532"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="33rzJHVuo0kXzaKjHCivM0VeoFc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "signlingo-vue",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "D:\\WebStorm 2025.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db5505de-c2c9-47f5-96f9-bc427341b91d" name="Changes" comment="" />
+      <created>1760089911390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760089911390</updated>
+      <workItem from="1760089919904" duration="2894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
